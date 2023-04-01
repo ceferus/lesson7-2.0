@@ -1,0 +1,15 @@
+.style1{
+    background-image: url(./yarpaq.jpg);
+}
+.style2{
+    font-family: 'Raleway', sans-serif; 
+    size: 15px;
+    font-weight: 200;
+    color: beige;
+}
+.style3{
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-size: 50px;
+    font-weight: 600;
+}
